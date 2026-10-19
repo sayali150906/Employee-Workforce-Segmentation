@@ -28,6 +28,3 @@ Segmentation of the IBM HR Analytics workforce (1,470 employees) with PCA, K-Mea
 1. Upload `Workforce_Segmentation_Notebook.ipynb` to Google Colab.
 2. Click Runtime > Run all (the dataset downloads automatically).
 3. Open `Workforce_Analytics_Dashboard.html` in a browser.
-
-## Dataset
-https://github.com/IBM/employee-attrition-aif360
